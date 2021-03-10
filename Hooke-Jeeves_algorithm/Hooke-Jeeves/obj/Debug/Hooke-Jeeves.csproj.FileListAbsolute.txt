@@ -1,0 +1,12 @@
+C:\Users\bezve\Desktop\Hooke-Jeeves_algorithm\Hooke-Jeeves_algorithm\Hooke-Jeeves\bin\Debug\Hooke-Jeeves.exe.config
+C:\Users\bezve\Desktop\Hooke-Jeeves_algorithm\Hooke-Jeeves_algorithm\Hooke-Jeeves\bin\Debug\Hooke-Jeeves.exe
+C:\Users\bezve\Desktop\Hooke-Jeeves_algorithm\Hooke-Jeeves_algorithm\Hooke-Jeeves\bin\Debug\Hooke-Jeeves.pdb
+C:\Users\bezve\Desktop\Hooke-Jeeves_algorithm\Hooke-Jeeves_algorithm\Hooke-Jeeves\bin\Debug\info.lundin.math.dll
+C:\Users\bezve\Desktop\Hooke-Jeeves_algorithm\Hooke-Jeeves_algorithm\Hooke-Jeeves\obj\Debug\Hooke-Jeeves.csprojAssemblyReference.cache
+C:\Users\bezve\Desktop\Hooke-Jeeves_algorithm\Hooke-Jeeves_algorithm\Hooke-Jeeves\obj\Debug\Hooke_Jeeves.Form1.resources
+C:\Users\bezve\Desktop\Hooke-Jeeves_algorithm\Hooke-Jeeves_algorithm\Hooke-Jeeves\obj\Debug\Hooke_Jeeves.Properties.Resources.resources
+C:\Users\bezve\Desktop\Hooke-Jeeves_algorithm\Hooke-Jeeves_algorithm\Hooke-Jeeves\obj\Debug\Hooke-Jeeves.csproj.GenerateResource.cache
+C:\Users\bezve\Desktop\Hooke-Jeeves_algorithm\Hooke-Jeeves_algorithm\Hooke-Jeeves\obj\Debug\Hooke-Jeeves.csproj.CoreCompileInputs.cache
+C:\Users\bezve\Desktop\Hooke-Jeeves_algorithm\Hooke-Jeeves_algorithm\Hooke-Jeeves\obj\Debug\Hooke-Jeeves.csproj.CopyComplete
+C:\Users\bezve\Desktop\Hooke-Jeeves_algorithm\Hooke-Jeeves_algorithm\Hooke-Jeeves\obj\Debug\Hooke-Jeeves.exe
+C:\Users\bezve\Desktop\Hooke-Jeeves_algorithm\Hooke-Jeeves_algorithm\Hooke-Jeeves\obj\Debug\Hooke-Jeeves.pdb

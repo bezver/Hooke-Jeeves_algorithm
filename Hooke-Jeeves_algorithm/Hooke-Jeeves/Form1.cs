@@ -8,6 +8,8 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+using info.lundin.math;
+
 namespace Hooke_Jeeves
 {
     public partial class Form1 : Form

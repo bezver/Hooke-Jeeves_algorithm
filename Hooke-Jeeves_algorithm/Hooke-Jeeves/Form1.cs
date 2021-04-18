@@ -35,10 +35,7 @@ namespace Hooke_Jeeves
                 double a =                 Convert.ToDouble(this.textBox6.Text, formatter);
                 int iterationsCount =      Convert.ToInt32(this.textBox7.Text);
 
-                //double result = Solver.Function(paramNames, paramValues, formula);
-                double result = Solver.Alg_hooke(this.textBox8, paramNames, paramValues, formula, h, epsilon, a, iterationsCount, findMin);
-                //this.textBox8.Text = result.ToString();
-                //throw new InvalidProgramException("HI");
+                Solver.Alg_hooke(this.textBox8, paramNames, paramValues, formula, h, epsilon, a, iterationsCount, findMin);
             }
             catch(InvalidProgramException exc)
             {
@@ -98,7 +95,7 @@ namespace Hooke_Jeeves
 
         private void pictureBox3_Click(object sender, EventArgs e)
         {
-            string msg = String.Format(@"bezver & gonchar");
+            string msg = String.Format(@"bezver  gonchar");
             msg += Environment.NewLine;
             msg += "See on Github: https://github.com/bezver/Hooke-Jeeves_algorithm";
             MessageBox.Show(msg, "Autors");
